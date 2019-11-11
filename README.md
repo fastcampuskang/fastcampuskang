@@ -1,0 +1,2 @@
+# fastcampuskang
+practice for hexo
